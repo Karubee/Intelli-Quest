@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/LoginMenu.unity
+    guid: 42345d55447447146baf93039c034940
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d9aeb67fdde8a064c8a62a59f1284af9
+  - enabled: 1
+    path: Assets/Templates-Brackeys/Turn-based combat/Assets/Scenes/EasyLevel.unity
+    guid: fb3f6cf39aef74d4b9cf28f117b50794
+  - enabled: 1
+    path: Assets/Scenes/MediumLevel.unity
+    guid: b5b80a57fb5be0c4394ff2960f205aa5
+  - enabled: 1
+    path: Assets/Scenes/HardLevel.unity
+    guid: 49bf17e310b781d46b5231ca3777f8fe
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 71578a610666b204a82805dca1eea85e
+  m_configObjects: {}
