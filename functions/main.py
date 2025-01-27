@@ -26,7 +26,7 @@ def extract_text_from_pdf(pdf_path):
 
 # Function to generate questions using GPT-3.5 Turbo API
 def generate_questions(text, num_questions=10):
-    api_key = "sk-proj-VeNnzPsgYz8sEAbzEaubT3BlbkFJCWK50fCbkv00U1CTa528"
+    api_key = "OPEN AI API KEY"
     openai.api_key = api_key
 
     prompt = (
